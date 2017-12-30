@@ -215,7 +215,7 @@ header .search button:hover {
 
 /************ slider **********/
 .slider {
-	background: url(Images/slider1.jpg);
+	background: url(slider1.jpg);
 	background-repeat:no-repeat;
 	height:350px;
 	margin:auto;
